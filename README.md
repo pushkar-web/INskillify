@@ -1,11 +1,11 @@
-# 🌟 Campus++: Empowering Tier 2 & Tier 3 College Students
+# 🌟 INSkillify: Empowering Tier 2 & Tier 3 College Students
 
 Unlock Your Potential with Cutting-Edge Learning Tools and Resources! 🚀
 
 ---
 
 ## 📖 Overview
-Campus++ is a revolutionary platform designed to bridge the skill gap for students from Tier 2 and Tier 3 colleges. By providing access to curated resources, AI-powered tools, and immersive learning environments, Campus++ empowers students to develop skills, build resumes, and prepare for their future—all in one place. 
+INskillify is a revolutionary platform designed to bridge the skill gap for students from Tier 2 and Tier 3 colleges. By providing access to curated resources, AI-powered tools, and immersive learning environments, Campus++ empowers students to develop skills, build resumes, and prepare for their future—all in one place. 
 
 ---
 
@@ -60,10 +60,10 @@ Campus++ is a revolutionary platform designed to bridge the skill gap for studen
 
 ## 📈 How It Fits the AI and Personalization Track
 
-Campus++ uses AI to tailor learning experiences and provide personalized feedback. From custom mock tests to roadmap generation, every feature is designed to adapt to individual learning goals, making it a perfect fit for the AI and Personalization track.
+INskillify uses AI to tailor learning experiences and provide personalized feedback. From custom mock tests to roadmap generation, every feature is designed to adapt to individual learning goals, making it a perfect fit for the AI and Personalization track.
 
 ---
 
 ## 💡 Vision
 
-Empowering 1 million+ students in Tier 2 and Tier 3 colleges within 2 years, Campus++ aims to revolutionize skill development through technology and innovation. 🌟
+Empowering 1 million+ students in Tier 2 and Tier 3 colleges within 2 years, INskillify aims to revolutionize skill development through technology and innovation. 🌟
